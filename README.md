@@ -3,7 +3,9 @@
 ---
 
 1. Clone that template
-   > [!NOTE]
+
+> [!NOTE]
+> Hello
 
 <br> 2. Download the dependencies
 `bun i or yarn i or npm i`
