@@ -5,7 +5,10 @@
 1. Clone that template
 
 > [!NOTE]
-> Hello
+
+> `git clone https://github.com/berkaycirak/next-template [your_project_name]`
+
+> `git clone https://github.com/berkaycirak/next-template [your_project_name]`
 
 <br> 2. Download the dependencies
 `bun i or yarn i or npm i`
