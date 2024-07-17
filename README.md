@@ -3,8 +3,8 @@
 ---
 
 1. Clone that template
-   > [!NOTE]>`your_project_name` will be your project name
-   > `git clone https://github.com/berkaycirak/next-template [your_project_name]`
+   > [!NOTE]
+   > `git clone https://github.com/berkaycirak/next-template [your_project_name]` > `git clone https://github.com/berkaycirak/next-template [your_project_name]`
 
 <br> 2. Download the dependencies
 `bun i or yarn i or npm i`
