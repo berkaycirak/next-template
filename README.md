@@ -5,6 +5,8 @@
 1. Clone that template
 
 > [!NOTE]
+> Hello
+> Whatsapp
 
 <br> 2. Download the dependencies
 `bun i or yarn i or npm i`
