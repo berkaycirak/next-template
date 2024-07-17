@@ -4,8 +4,9 @@
 
 1. Clone that template
 
-> [!NOTE]
-> [your_project_name] will be replaced with your desired project name
+> [!NOTE] > [your_project_name] will be replaced with your desired project name
+
+`git clone https://github.com/berkaycirak/next-template.git [your_project_name] `
 
 <br> 2. Download the dependencies
 `bun i or yarn i or npm i`
