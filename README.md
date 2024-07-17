@@ -5,8 +5,7 @@
 1. Clone that template
 
 > [!NOTE]
-> Hello
-> Whatsapp
+> [your_project_name] will be replaced with your desired project name
 
 <br> 2. Download the dependencies
 `bun i or yarn i or npm i`
